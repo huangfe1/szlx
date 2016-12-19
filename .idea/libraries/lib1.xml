@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ant-launcher-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ant-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ant-junit4-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
